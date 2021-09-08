@@ -5,7 +5,7 @@ export const Card = () => {
 	return (
 		<div className="container-fluid my-5">
 			<div className="row">
-				<div className="col-3">
+				<div className="col-md-3">
 					<div className="card h-100">
 						<img
 							src={caminofoto}
@@ -29,7 +29,7 @@ export const Card = () => {
 						</div>
 					</div>
 				</div>
-				<div className="col-3">
+				<div className="col-md-3">
 					<div className="card h-100">
 						<img
 							src={caminofoto}
@@ -53,7 +53,7 @@ export const Card = () => {
 						</div>
 					</div>
 				</div>
-				<div className="col-3">
+				<div className="col-md-3">
 					<div className="card h-100">
 						<img
 							src={caminofoto}
@@ -77,7 +77,7 @@ export const Card = () => {
 						</div>
 					</div>
 				</div>
-				<div className="col-3">
+				<div className="col-md-3">
 					<div className="card h-100">
 						<img
 							src={caminofoto}

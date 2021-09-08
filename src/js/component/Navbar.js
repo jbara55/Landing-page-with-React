@@ -6,7 +6,7 @@ export const Navbar = () => {
 			<nav className="navbar navbar-expand-lg navbar-light bg-light">
 				<div className="container-fluid">
 					<a className="navbar-brand" href="#">
-						Navbar
+						Start Bootstap
 					</a>
 					<button
 						className="navbar-toggler"
